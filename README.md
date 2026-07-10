@@ -93,7 +93,12 @@ bash <(curl -fsSL https://s3.peli.my.id/uninstall.sh)
 | XTLS-REALITY | sni: yahoo.com | ❌ | ❌ |
 | TCP-REALITY | sni: www.yahoo.com | sni: www.cisco.com | sni: apple.com |
 | XHTTP-REALITY | sni: www.google.com | sni: www.speedtest.net | sni: www.icloud.com |
-| gRPC-REALITY | sni: microsoft.com | sni: gitlab.com | sni: docker.com |
+| gRPC-REALITY | sni: openai.com | sni: gitlab.com | sni: docker.com |
+
+## Credits & Version
+
+- **Pembuat / Credit**: superencrypt
+- **Versi / Version**: v26.7.10 (Dirilis pada 10 Juli 2026)
 
 ## Lisensi
 
