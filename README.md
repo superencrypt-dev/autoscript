@@ -98,7 +98,7 @@ bash <(curl -fsSL https://s3.peli.my.id/uninstall.sh)
 ## Credits & Version
 
 - **Pembuat / Credit**: superencrypt
-- **Versi / Version**: v26.7.10 (Dirilis pada 10 Juli 2026)
+- **Versi / Version**: v26.7.11-beta1 (Dirilis pada 11 Juli 2026)
 
 ## Lisensi
 
