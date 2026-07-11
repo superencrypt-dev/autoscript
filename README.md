@@ -4,8 +4,6 @@
 [![Version](https://img.shields.io/badge/Version-v26.7.11--beta1-blue?style=for-the-badge&logo=github)](https://github.com/superencrypt-dev/autoscript)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-**AutoScript** adalah installer otomatis *all-in-one* yang menggabungkan **Soft-Proxy** (multiplexer), **Xray-core**, **Nginx**, dan **Dropbear** dalam satu port tunggal (`80` / `443`). Dirancang untuk kemudahan maksimal, performa tinggi, bypass sensor, dan bypass kuota internet.
-
 ---
 
 ## ✨ Fitur Unggulan
