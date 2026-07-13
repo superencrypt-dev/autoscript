@@ -1,7 +1,7 @@
 # 🚀 AutoScript: Ultimate VPN & Proxy All-in-One Installer
 
 [![OS Compatibility](https://img.shields.io/badge/Supported%20OS-Ubuntu%20%7C%20Debian-orange?style=for-the-badge&logo=linux)](https://github.com/superencrypt-dev/autoscript)
-[![Version](https://img.shields.io/badge/Version-v26.7.11--beta1-blue?style=for-the-badge&logo=github)](https://github.com/superencrypt-dev/autoscript)
+[![Version](https://img.shields.io/badge/Version-v26.7.12--beta4-blue?style=for-the-badge&logo=github)](https://github.com/superencrypt-dev/autoscript)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ---
@@ -123,7 +123,7 @@ bash <(curl -fsSL https://s3.peli.my.id/uninstall.sh)
 ## 👥 Credits & Version
 
 - **Pembuat / Credit**: superencrypt
-- **Versi / Version**: `v26.7.11-beta1` (Dirilis pada 11 Juli 2026)
+- **Versi / Version**: `v26.7.12-beta4` (Dirilis pada 12 Juli 2026)
 
 ## 📄 Lisensi
 
